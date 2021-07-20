@@ -5,10 +5,10 @@ function App() {
   return (
     <html>
       <head>
-        <title>card</title>
+        <title>card manager</title>
       </head>
       <body>
-        <h1>card processing</h1>
+        <h1>card manager</h1>
       </body>
     </html>
   )
